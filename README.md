@@ -18,7 +18,7 @@ Source: Public Kaggle dataset (~9,000 titles)
 
 Key variables: country, type (Movie/TV), release year
 
-Data cleaning included:
+### Data cleaning included:
 
 Extraction of primary country
 
